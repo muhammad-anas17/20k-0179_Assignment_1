@@ -1,0 +1,15 @@
+trigger:
+- main
+
+jobs:
+- job: Build
+  pool:
+    name: Default
+    demands:
+     - agent.name -equals assign1  
+     
+  steps:
+  - checkout: self
+  - script: |
+
+      echo "Main branch build successful"
