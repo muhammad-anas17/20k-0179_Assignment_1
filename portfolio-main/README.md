@@ -1,4 +1,4 @@
-## Khawaja Abdullah Portfolio Website
+## Muhammad Anas Portfolio Website
 
 ---
 - The website is made using HTML,CSS and Bootstrap
@@ -15,4 +15,4 @@
 ---
 
 **The Project was also deployed on github**
-## Portfolio Website link: https://khawajaabdullah2000.github.io/portfolio/
+## Portfolio Website link: https://github.com/muhammad-anas17/20k-0179_Assignment_1.git
